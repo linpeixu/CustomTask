@@ -15,8 +15,8 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```java
     dependencies {
-                        implementation 'com.github.linpeixu:CustomTask:1.0.1'
-	        //或者implementation 'com.gitlab.linpeixu:customtask:1.0.1'
+                        implementation 'com.github.linpeixu:CustomTask:1.0.3'
+	        //或者implementation 'com.gitlab.linpeixu:customtask:1.0.2'
 	}
 ```
 
